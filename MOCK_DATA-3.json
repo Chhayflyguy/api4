@@ -1,62 +1,114 @@
-[
-    {
-        "date": "26/05/2024",
-        "event": "Civil Engineer",
-        "description": "Maxwest",
-        "status": 1
-    },
-    {
-        "date": "24/09/2023",
-        "event": "Sales Associate",
-        "description": "Samsung",
-        "status": 2
-    },
-    {
-        "date": "12/11/2023",
-        "event": "Developer III",
-        "description": "BLU",
-        "status": 3
-    },
-    {
-        "date": "22/02/2024",
-        "event": "Recruiting Manager",
-        "description": "Samsung",
-        "status": 4
-    },
-    {
-        "date": "22/09/2023",
-        "event": "Environmental Specialist",
-        "description": "BLU",
-        "status": 5
-    },
-    {
-        "date": "17/03/2024",
-        "event": "Analyst Programmer",
-        "description": "Lava",
-        "status": 6
-    },
-    {
-        "date": "17/03/2024",
-        "event": "Geologist III",
-        "description": "Lenovo",
-        "status": 7
-    },
-    {
-        "date": "15/04/2024",
-        "event": "Engineer IV",
-        "description": "alcatel",
-        "status": 8
-    },
-    {
-        "date": "24/03/2024",
-        "event": "Design Engineer",
-        "description": "Amoi",
-        "status": 9
-    },
-    {
-        "date": "15/04/2024",
-        "event": "Financial Advisor",
-        "description": "ZTE",
-        "status": 10
+{"data":{
+    "year": 2024,
+    "months": [
+        {
+            "month": "September",
+            "days": [
+                {
+                    "date": "2024-09-05",
+                    "event": "Request 1",
+                    "description": "xxxxxxxxxxx.",
+                    "status": 3
+                },
+                {
+                    "date": "2024-09-06",
+                    "event": "Request 2",
+                    "description": "xxxxxxxxx.",
+                    "status": 3
+                },
+                {
+                    "date": "2024-09-15",
+                    "event": "Request 3",
+                    "description": "xxxxxxxxxx",
+                    "status": 1
+                },
+                {
+                    "date": "2024-09-25",
+                    "event": "Request 4",
+                    "description": "xxxxxxxxxxxx",
+                    "status": 4
+                }
+            ]
+        },
+        {
+            "month": "October",
+            "days": [
+                {
+                    "date": "2024-10-10",
+                    "event": "Request 1",
+                    "description": "xxxxxxxxx",
+                    "status": 2
+                },
+                {
+                    "date": "2024-10-20",
+                    "event": "Request 2",
+                    "description": "xxxxxxxx",
+                    "status": 5
+                },
+                {
+                    "date": "2024-10-31",
+                    "event": "Request 3",
+                    "description": "xxxxxxx",
+                    "status": 0
+                }
+            ]
+        }
+    ],
+    "nextYear": {
+        "year": 2025,
+        "months": [
+            {
+                "month": "January",
+                "days": [
+                    {
+                        "date": "2025-01-10",
+                        "event": "New Year Party",
+                        "description": "Celebrating the new year with a grand party.",
+                        "status": 1
+                    },
+                    {
+                        "date": "2025-01-20",
+                        "event": "Team Building",
+                        "description": "Activities for team bonding and development.",
+                        "status": 2
+                    }
+                ]
+            },
+            {
+                "month": "February",
+                "days": [
+                    {
+                        "date": "2025-02-14",
+                        "event": "Valentine's Day",
+                        "description": "Celebrate love and friendship.",
+                        "status": 3
+                    },
+                    {
+                        "date": "2025-02-28",
+                        "event": "End of Month Review",
+                        "description": "Review of monthly achievements and challenges.",
+                        "status": 4
+                    }
+                ]
+            },
+            {
+                "month": "March",
+                "days": [
+                    {
+                        "date": "2025-03-17",
+                        "event": "St. Patrick's Day",
+                        "description": "Celebration of Irish culture and heritage.",
+                        "status": 1
+                    },
+                    {
+                        "date": "2025-03-25",
+                        "event": "Project Kickoff",
+                        "description": "Start of a new project phase.",
+                        "status": 5
+                    }
+                ]
+            }
+        ]
     }
-]
+}
+}
