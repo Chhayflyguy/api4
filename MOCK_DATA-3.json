@@ -1,0 +1,62 @@
+[
+    {
+        "date": "26/05/2024",
+        "event": "Civil Engineer",
+        "description": "Maxwest",
+        "status": 1
+    },
+    {
+        "date": "24/09/2023",
+        "event": "Sales Associate",
+        "description": "Samsung",
+        "status": 2
+    },
+    {
+        "date": "12/11/2023",
+        "event": "Developer III",
+        "description": "BLU",
+        "status": 3
+    },
+    {
+        "date": "22/02/2024",
+        "event": "Recruiting Manager",
+        "description": "Samsung",
+        "status": 4
+    },
+    {
+        "date": "22/09/2023",
+        "event": "Environmental Specialist",
+        "description": "BLU",
+        "status": 5
+    },
+    {
+        "date": "17/03/2024",
+        "event": "Analyst Programmer",
+        "description": "Lava",
+        "status": 6
+    },
+    {
+        "date": "17/03/2024",
+        "event": "Geologist III",
+        "description": "Lenovo",
+        "status": 7
+    },
+    {
+        "date": "15/04/2024",
+        "event": "Engineer IV",
+        "description": "alcatel",
+        "status": 8
+    },
+    {
+        "date": "24/03/2024",
+        "event": "Design Engineer",
+        "description": "Amoi",
+        "status": 9
+    },
+    {
+        "date": "15/04/2024",
+        "event": "Financial Advisor",
+        "description": "ZTE",
+        "status": 10
+    }
+]
